@@ -4,42 +4,42 @@ In this module, we will explore the chrono crate for handling date and time in R
 
 The NaiveDate Struct
 <br>
-Vídeo•. Duration: 9 minutos9 min
+Vídeo•. Duration: 9 minutos
 <br>
 The TimeDelta Struct
 <br>
-Vídeo•. Duration: 10 minutos10 min
+Vídeo•. Duration: 10 minutos
 <br>
 Adding and Subtracting Time
 <br>
-Vídeo•. Duration: 8 minutos8 min
+Vídeo•. Duration: 8 minutos
 <br>
 The NaiveTime and NaiveDateTime Structs
 <br>
-Vídeo•. Duration: 7 minutos7 min<br>
+Vídeo•. Duration: 7 minutos<br>
 The DateTime Struct<br>
 
-Vídeo•. Duration: 11 minutos11 min<br>
+Vídeo•. Duration: 11 minutos<br>
 Converting Timezones<br>
 
 Vídeo•. Duration: 5 minutos5 min<br>
 The parse_from_str Function<br>
 
-Vídeo•. Duration: 8 minutos8 min<br>
+Vídeo•. Duration: 8 minutos<br>
 The Format Method<br>
 
-Vídeo•. Duration: 5 minutos5 min<br>
+Vídeo•. Duration: 5 minutos<br>
 Project Solution<br>
 
-Vídeo•. Duration: 27 minutos27 min<br>
+Vídeo•. Duration: 27 minutos<br>
 . Haz clic para reanudar.<br>
 Section Review<br>
 
-Vídeo•. Duration: 7 minutos7 min<br>
+Vídeo•. Duration: 7 minutos<br>
 Working with Dates and Times in Rust<br>
 
-Diálogo•. Duration: 15 minutos15 min<br>
+Diálogo•. Duration: 15 minutos<br>
 Datetimes with Chrono Crate - Assessment<br>
 
 Vence el 14 de ene. 23:59 CET
-Tarea calificable•. Duration: 15 minutos15 min
+Tarea calificable•. Duration: 15 minutos
